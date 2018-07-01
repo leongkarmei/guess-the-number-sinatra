@@ -1,0 +1,28 @@
+body {
+  background-image: url(img/psychedelic flower.jpg);
+  background-color: black;
+}
+
+h1 {
+ text-align: center;
+ font-family: "Montserrat";
+ color: white;
+ font-size: 4em;
+}
+
+p {
+  color: white;
+  font-style: italic;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+p2 {
+  font-size: 2em;
+}
+
+a {
+  href="/new";
+  text-align: center;
+  font-size: 2em;
+}
